@@ -5,6 +5,7 @@ import requests
 st.set_page_config(page_title="Analytics Dashboard", layout="wide")
 st.title("Analytics Dashboard")
 
+
 # Form for adding new entries
 with st.form("add_entry_form"):
     date_entry = st.text_input("Date (YYYY-MM-DD)")
