@@ -9,7 +9,7 @@ A Java Spring Boot Full Stack application with Python utilities, built with Mave
 - Maven 3.6+
 - Python 3.8+
 
-## Prerequisites
+## Prerequisites 
 
 - JDK 17 or higher
 - Maven 3.6+
